@@ -30,7 +30,7 @@ In recent releases, we added a bunch of new commands to IRB:
   - `backtrace`
   - `info`
 
-The number of new commands may look intimitating, so let me introduce them one by one:
+The number of new commands may look intimidating, so let me introduce them one by one:
 
 ### `show_cmds`
 
